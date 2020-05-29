@@ -1,0 +1,2 @@
+testing
+-DCATKIN_DEVEL_PREFIX=/home/yong/ROS/test_ws/devel -DCMAKE_INSTALL_PREFIX=/home/yong/ROS/test_ws/install -G Unix Makefiles
