@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/yong/ROS/sensor_ws/install/setup.sh
